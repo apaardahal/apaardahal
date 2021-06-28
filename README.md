@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as a freelancer and
 - 🌱 I’m currently learning MERN Stack
 <!--
 - 👯 I’m looking to collaborate on ...
