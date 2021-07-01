@@ -20,3 +20,5 @@ Some languages and tools I am playing with
 !["React"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+[![Apaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=apaardahal)](https://github.com/apaardahal/github-readme-stats)
