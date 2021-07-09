@@ -21,4 +21,6 @@ Some languages and tools I am playing with
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+[!["Followers"](https://img.shields.io/github/followers/apaardahal?label=Follow&style=social)](https://github.com/apaardahal)
 ![Profile views](https://gpvc.arturio.dev/apaardahal) 
