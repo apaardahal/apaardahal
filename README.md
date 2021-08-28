@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a freelancer and
 - 🌱 I’m currently learning MERN Stack
 
-Some languages and tools I am playing with
+Some languages and tools I am playing with:
 
 !["C"](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 !["C++"](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
