@@ -1,4 +1,4 @@
-### Hi there, this is Apaar Dahal👋
+### Hi there, this is Apaar 👋
 
 
 - 🔭 I’m currently working as a freelancer and
